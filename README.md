@@ -1,2 +1,2 @@
 # Stata-and-GitHub-Integration
-Dec 2022
+DEC 2022
